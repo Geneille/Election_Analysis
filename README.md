@@ -2,10 +2,9 @@
 
 ## Overview of Election Audit
 
-A Colorado elections committee provided the results of their recently concluded local elections. With over 360,000 ballots cast for three different candidates in three counties, the main objective of this project is to determine the winner of the election based on popular vote. In addition, the following results are also to be determined and recorded: total number of votes cast, a complete list of candidates who received votes, total number of votes each candidate received and the percentage of votes each candidate won.
+A Colorado elections committee provided the results of their recently concluded local elections. With over 360,000 ballots cast for three candidates in three different counties, the main objective of this project is to determine the winner of the election based on popular vote. In addition, the following results are also to be determined and recorded: total number of votes cast, a complete list of candidates who received votes, total number of votes each candidate received and the percentage of votes each candidate won. The election results is also to be audited and the following information analyzed, recorded and reported: the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout.
 
-The election results is also to be audited and the following information analyzed, recorded and reported: the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout.
-
+Python was utilized to formulate and write the code to complete the goal, and the execution was done in visual studio code. In general, the analysis compriprsed of creating list and dictionaries, initialzing variables to store and or count data and writing code to loop through the data to collect the necessary information to complete the aim.
 
 ## Resources
 
@@ -13,8 +12,6 @@ The election results is also to be audited and the following information analyze
 * Software: Python 3.7.6, Visual Studio Code 1.62.2
 
 ## Election-Audit Results
-
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 * The total number of votes cast in the election was 369,711.
 
@@ -35,4 +32,5 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
 ## Summary
 
+The presented script works well in predicitng the election results. By defining some of the variables as global variables, accurate and reliable results can be obtained for any number of canadiates and counties. This means the code is highly adaptable. However, if the script is to be used for other elections, some modifications may be necessary to ensure its adaptable. Two examples of such modifications include writing a code to check for duplicate (or more) votes and....To preserve the integrity of the election, especially at a larger scale where fraud may be more prominent, it will be important to have a code that loops through the rows to ensure all ballot ID is unique  
 
