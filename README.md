@@ -29,8 +29,17 @@ Python was utilized to formulate and write the code to complete the goal, and th
 
 * The winner of the election was Diana DeGette. Diana receieved  272,892 votes, which accounts for 73.8% of the total votes.
 
+A snapshot summarizing the above mentioned results is presented in the image below (see analysis folder for text file).
+
 
 ## Summary
 
-The presented script works well in predicitng the election results. By defining some of the variables as global variables, accurate and reliable results can be obtained for any number of canadiates and counties. This means the code is highly adaptable. However, if the script is to be used for other elections, some modifications may be necessary to ensure its adaptable. Two examples of such modifications include writing a code to check for duplicate (or more) votes and....To preserve the integrity of the election, especially at a larger scale where fraud may be more prominent, it will be important to have a code that loops through the rows to ensure all ballot ID is unique  
+The presented script works well in predicitng the election results. By defining some of the variables as global variables, accurate and reliable results was obtained and can be used for any number of canadiates and counties. This means the code is highly adaptable and useable where similar (input) data is available. However, if the script is to be used for other elections, perhaps even for this election, some modifications may be necessary to ensure it is adaptable and to further improve confidence in the results. Two examples of such modifications are brifely discussed below.
+
+  * Writing a code to check for duplicate votes. To preserve the integrity of the election, especially at a larger scale where fraud may be more prominent, it will be important to have a code that loops through the rows to ensure all ballot ID is unique.
+  
+  * In every election, there is a process of examining the vote totals to make sure every ballot was counted and there are no clerical errors in the results. This is the "certified results" of the election. Therefore the presented code can perhaps present a print out of this type of information. In general, it is a comparison of ballots cast (total votes) and summation of total votes of each candidate. The presented code may be modified to reflect this by following these steps: create a variable that stores each candidate total votes (in the current code this results is directed to print immediately), sum the total votes from this information, compare it to the overall total votes, and finally write a code for the comparison statement that if the compared values is the same the election results is certified.
+
+
+
 
