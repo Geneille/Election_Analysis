@@ -4,7 +4,7 @@
 
 A Colorado elections committee provided the results of their recently concluded local elections. With over 360,000 ballots cast for three candidates in three different counties, the main objective of this project is to determine the winner of the election based on popular vote. In addition, the following results are also to be determined and recorded: total number of votes cast, a complete list of candidates who received votes, total number of votes each candidate received and the percentage of votes each candidate won. The election results is also to be audited and the following information analyzed, recorded and reported: the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout.
 
-Python was utilized to formulate and write the code to complete the goal, and the execution was done in visual studio code. In general, the analysis compriprsed of creating list and dictionaries, initialzing variables to store and or count data and writing code to loop through the data to collect the necessary information to complete the aim.
+Python was utilized to formulate and write the code to complete the goal, and the execution was done in visual studio code. In general, the analysis compriprsed of creating list and dictionaries, initialzing variables to store and or count data and writing code to loop through the data to collect the necessary information to complete the aim. The full code is presented in the PyPoll_Challenge.py file.
 
 ## Resources
 
@@ -31,6 +31,7 @@ Python was utilized to formulate and write the code to complete the goal, and th
 
 A snapshot summarizing the above mentioned results is presented in the image below (see analysis folder for text file).
 
+<img width="236" alt="image" src="https://user-images.githubusercontent.com/92636438/142762852-e8057292-986a-4d3b-b582-b16f05b07e15.png">
 
 ## Summary
 
