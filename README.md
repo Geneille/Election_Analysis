@@ -12,7 +12,7 @@ A Colorado elections committee provided the results of their recently concluded 
 
 ## Analysis Overview
 
-Python was utilized to formulate and write the code to complete the goal, and the execution was done in visual studio code. In general, the analysis compriprsed of creating list and dictionaries, initialzing variables to store and or count data, and writing code to loop through the data to collect the necessary information to complete the aim. The full code is presented in the PyPoll_Challenge.py file.
+Python was utilized to formulate and write the code to complete the goal, and the execution was done in visual studio code. In general, the analysis comprised of creating list and dictionaries, initialzing variables to store and or count data, and writing code to loop through the data to collect the necessary information to complete the aim. The full code is presented in the PyPoll_Challenge.py file.
 
 ## Election-Audit Results
 
