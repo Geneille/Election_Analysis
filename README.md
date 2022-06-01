@@ -1,9 +1,8 @@
 # Election_Analysis
 
-## Overview of Election Audit
+## Overview and Objectives
 
 A Colorado elections committee provided the results of their recently concluded local elections. With over 360,000 ballots cast for three candidates in three different counties, the main objective of this project was to determine the winner of the election based on popular vote. In addition, the following outcomes were also determined: total number of votes cast, a complete list of candidates who received votes, total number of votes each candidate received, and the percentage of votes for each candidate. The election results per county was also analyzed and recorded.
-
 
 ## Resources
 
