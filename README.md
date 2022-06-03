@@ -7,7 +7,7 @@ A Colorado elections committee provided the results of their recently concluded 
 ## Resources
 
 * Data source: election-results.csv
-* Software: Python 3.7.6, Visual Studio Code 1.62.2
+* Language and Tools: Python 3.7.6, Visual Studio Code 1.62.2
 
 ## Analysis Overview
 
